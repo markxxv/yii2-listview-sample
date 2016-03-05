@@ -17,4 +17,4 @@ Sample codes for demonstrating how to use `Yii2` `ListView`.
 
 ### Tutorial
 
-A step by step [tutorial](http://www.codevoila.com/yii2-listview-example-sample-codes "Yii2 ListView Example: Sample Codes") is also available.
+A step by step [tutorial](http://www.codevoila.com/post/35/yii2-listview-example-sample-codes "Yii2 ListView Example: Sample Codes") is also available.
