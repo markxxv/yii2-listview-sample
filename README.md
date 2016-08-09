@@ -18,4 +18,4 @@
 
 ### Туториал
 
-Пошаговый туториал (http://www.codevoila.com/post/35/yii2-listview-example-sample-codes "можно посмотреть тут").
+Пошаговый туториал можно посмотреть тут (https://vivasart.com/lab/yii2-kak-sozdat-predstavlenie-listview-ishodniki).
