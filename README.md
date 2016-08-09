@@ -1,20 +1,21 @@
-# Yii2 ListView Sample
+# Yii2 ListView демо
 
-Sample codes for demonstrating how to use `Yii2` `ListView`.
+Простой пример кода демонстрирующий как использовать представлеие `Yii2` `ListView`.
 
-### Usage
+### Использование
 
-* Check out or download the sample codes
-* Copy `controllers/*` to `YOUR_APP/controllers/`, copy view files to views folder of your app.
+* Загрузите данный архив с исходниками
+* Скопируйте файл из `controllers/*` в `ВАШЕ_ПРИЛОЖЕНИЕ/controllers/`, а так-же папку представления в вашу папку `views/`.
 
 	```
 	$ cd yii2-listview-sample
-	$ cp controllers/* YOUR_APP_PATH/controllers/
-	$ cp -r views/* YOUR_APP_PATH/views/
+	$ cp controllers/* ВАШЕ_ПРИЛОЖЕНИЕ/controllers/
+	$ cp -r views/* ВАШЕ_ПРИЛОЖЕНИЕ/views/
 	```
 
-* Access demo action by `http://YOUR_HOST_OR_APP/index.php?r=list/index`.
+* Посмореть в можно по адресу `http://YOUR_HOST_OR_APP/index.php?r=list/index`.
+* Или с настроенными ЧПУ `http://YOUR_HOST_OR_APP/list/index`.
 
-### Tutorial
+### Туториал
 
-A step by step [tutorial](http://www.codevoila.com/post/35/yii2-listview-example-sample-codes "Yii2 ListView Example: Sample Codes") is also available.
+Пошаговый туториал (http://www.codevoila.com/post/35/yii2-listview-example-sample-codes "можно посмотреть тут").
