@@ -1,7 +1,7 @@
 <?php
 
 /* Change this to your own namespace */
-namespace frontend\controllers;
+namespace app\controllers;
 
 use Yii;
 use yii\web\Controller;
